@@ -5,7 +5,7 @@ let sh = '5'
 let sn = '15'
 let ss = '20'
 let sp = '35'
-let sv = '40'
+let sv = '50'
 //premium
 let ph = '5'
 let pn = '15'
@@ -20,6 +20,7 @@ let info = `
 ┊⫹⫺ *Hemat:* _${sh}k/grup (7 Hari)_
 ┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_                                         
 ┊⫹⫺ *permanen:* = _${sv}k/grup (unlimited)_
+┊⫹⫺ *Note! Jika Tambah Dengan Gc Selec Tambah 5k*
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
@@ -53,10 +54,9 @@ let info = `
 _Total Fitur:_ 570++
 
 *⫹⫺ PAYMENT:*
-• *Dana:*
+• *Bca*
 • *Gopay:*
-• *Ovo:*
-• *QRIS*
+• *Pulsa*
 • *ALL PAYMENT*
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
