@@ -20,7 +20,7 @@ let info = `
 ┊⫹⫺ *Hemat:* _${sh}k/grup (7 Hari)_
 ┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_                                         
 ┊⫹⫺ *permanen:* = _${sv}k/grup (unlimited)_
-┊⫹⫺ *Note! Jika Tambah Dengan Gc Selec Tambah 5k*
+┊⫹⫺ *Note! Jika Tambah Dengan Gc Selec dan Payment lewat Pulsa 5k!!*
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
